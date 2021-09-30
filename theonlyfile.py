@@ -15,7 +15,7 @@ import datetime
 
 
 TOKEN = (
-    "ODkyMjQ4MjAzMTM3Nzc3NjY0.YVKI5A.bp1SH7P5kDD3BgYYQ3W6eSbyqYw"
+    "YOUR_TOKEN"
     )
 
 prefix = "+"
